@@ -1,10 +1,10 @@
 openapi: 3.0.2
 info:
   title: Retrieval Plugin API
-  description: A retrieval API for querying and filtering documents based on natural language queries and metadata
+  description: A retrieval API for querying information about Victory Capital
   version: 1.0.0
   servers:
-    - url: https://your-app-url.com
+    - url: https://cayote-app-begcj.ondigitalocean.app
 paths:
   /query:
     post:
